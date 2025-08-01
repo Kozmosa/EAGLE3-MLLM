@@ -37,8 +37,8 @@ pip install -r requirements.txt
 ## 3. Download Model Checkpoints  
 Download the following two model files into the corresponding directories:  
 
-- Target model: [llava-hf/llava-1.5-7b-hf](https://huggingface.co/llava-hf/llava-1.5-7b-hf) → place under `target_model` folder  
-- Draft model: [LINMimosa/EAGLE_llava7B](https://huggingface.co/LINMimosa/EAGLE_llava7B) → place under `draft_model` folder  
+- Target model: [llava-hf/llava-1.5-7b-hf](https://huggingface.co/llava-hf/llava-1.5-7b-hf) → place under `cache/target_model` folder  
+- Draft model: [LINMimosa/EAGLE_llava7B](https://huggingface.co/LINMimosa/EAGLE_llava7B) → place under `cache/draft_model` folder  
 
 ## 4. Run the demo.py
 ```bash
