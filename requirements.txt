@@ -1,0 +1,6 @@
+torch==2.7.1
+transformers==4.53.2
+Pillow
+tqdm
+huggingface-hub==0.34.1
+safetensors==0.5.3
